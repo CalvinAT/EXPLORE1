@@ -8,4 +8,5 @@ func main() {
 	c := "c"
 
 	fmt.Print(c + a + b + c + c)
+	fmt.Print(d)
 }
